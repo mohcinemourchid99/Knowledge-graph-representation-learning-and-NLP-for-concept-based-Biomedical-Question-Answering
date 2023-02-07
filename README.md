@@ -1,5 +1,4 @@
 # Knowledge-graph-representation-learning-and-NLP-for-concept-based-Biomedical-Question-Answering
-# Solving 2D Navier Stokes equation
  ##  Contributors
  1) OULDBOUYA Ziad
  2) MOURCHID Mohcine 
