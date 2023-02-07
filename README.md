@@ -12,7 +12,7 @@
  
  
  ## Workflow
-![Alt text](./images/White Simple Photocentric Zoom Virtual Background.png)
+![Alt text](images/workflow.png)
 - [x] Solving Poisson equation using Finite difference and Jacobi's iterative solver
 - [ ] Solving the advection diffusion equation using Finite difference
 - [x] Coupling both to solve the NS equation (already done using Numba and Pyccel)
