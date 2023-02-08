@@ -29,15 +29,15 @@ main contribution of this project
  ## Workflow
 ![Alt text](images/workflow.png)
 
-## Processing
+## Process of the project
 
-    - Data collection PubMed and Hetionet
-    - Coreference resolution
-    - Name Entity Recognition
-    - Relation extraction
-    - Name Entity Linking
-    - Knowledge Graph Construction
-    - Knowledge Graph Embedding
-    - Question Embedding module
-    - Answer scoring module
-    - Text generation
+- Data collection PubMed and Hetionet
+- Coreference resolution
+- Name Entity Recognition
+- Relation extraction
+- Name Entity Linking
+- Knowledge Graph Construction
+- Knowledge Graph Embedding
+- Question Embedding module
+- Answer scoring module
+- Text generation
