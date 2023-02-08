@@ -4,7 +4,7 @@
  2) MOURCHID Mohcine 
  
  # Supervisor
- Fahd Kalloubi
+ Pr.Fahd Kalloubi
 
  ## Abstract
 Biomedical knowledge graphs (KGs) represent a network of biological entities and illustrate
