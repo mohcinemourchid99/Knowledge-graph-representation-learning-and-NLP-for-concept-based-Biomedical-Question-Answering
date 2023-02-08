@@ -6,10 +6,6 @@
  # Supervisor
  Fahd Kalloubi
 
-   	Knowledge graph representation learning 
-	and NLP for concept-based Biomedical 
-	Question/Answering
- 
  ## Abstract
 on a ce projet "Knowledge graph representation learning and NLP for concept-based Biomedical Question/Answering" et je veux les étapes de production de ce projet
  ## Workflow
