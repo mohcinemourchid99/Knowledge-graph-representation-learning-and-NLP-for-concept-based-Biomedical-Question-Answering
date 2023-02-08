@@ -1,0 +1,7 @@
+python==3.7
+TensorFlow==1.15.0
+ampligraph==1.4.0
+spacy==3.0
+scipy==1.7.3
+sciketlearn==1.0.2
+networkx==2.6.3
